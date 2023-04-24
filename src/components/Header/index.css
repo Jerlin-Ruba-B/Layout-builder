@@ -1,0 +1,13 @@
+.header-bg-container {
+  margin: 8px;
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body-title {
+  color: #475569;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+}
+
+.controller-bg-container {
+  background-color: #475569;
+  background-size: cover;
+  padding: 12px;
+}
+.title-layout {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 124px;
+}
+.checkbox-container {
+  margin-left: 124px;
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+.label {
+  color: white;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 12px;
+}
